@@ -1,4 +1,4 @@
-tcp-scanner.
+tcp-scanner
 This is simple TCP port scanner. Script show IP adress and open ports.
 
 How to:
